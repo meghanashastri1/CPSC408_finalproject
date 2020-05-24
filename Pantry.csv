@@ -1,0 +1,2 @@
+ItemID,ItemName,BrandName,FG_Description,Calories
+"(29, 'pasta', 'Barilla', '1', 200)","(31, 'chips', 'Lays', 'snack food', 120)","(34, 'orange juice', 'tropicana', 'beverage', 140)","(35, 'broccoli', 'Dole', 'vegetable', 30)"
